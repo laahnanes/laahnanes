@@ -1,6 +1,6 @@
 ### Saudações, é um prazer ver você aqui! 🥰
 
--  Atualmente curso o 1º período de Eng. de Software ;)
+-  Atualmente curso o 2º período de Eng. de Software ;)
 -  Gosto de explorar a criatividade =)
 
 <div>
