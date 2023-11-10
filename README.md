@@ -5,13 +5,13 @@
 - Atualmente curso o 2º período de Eng. de Software ;)
 - Sou fascinada no desenvolvimento de games =)
 
-<img src="read/faixa.png">
+
 
 ## Ferramentas e tecnologias 💻
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "40">
           
-<img src="read/faixa.png">
+
 
 ## Linguagens em desenvolvimento 💻
 
