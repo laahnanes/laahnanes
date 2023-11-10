@@ -9,8 +9,7 @@
 
 ## Ferramentas e tecnologias 💻
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-          ">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "60">
 
 <img src="read/faixa.png">
 
