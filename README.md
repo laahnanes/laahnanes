@@ -1,19 +1,20 @@
 <img src="read/saudacoes.png">
 
-### Oie! Me chamo Larah!
+## Oie! Me chamo Larah 💙
 
 - Atualmente curso o 2º período de Eng. de Software ;)
 - Sou fascinada no desenvolvimento de games =)
 
 <img src="read/faixa.png">
 
-### Ferramentas e tecnologias
+## Ferramentas e tecnologias 💻
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+          ">
 
 <img src="read/faixa.png">
 
-### Contatos
+## Contatos 🌐
 
 
 <div>
