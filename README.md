@@ -2,8 +2,8 @@
 
 # Oie! Me chamo Larah!
 
--  Atualmente curso o 2º período de Eng. de Software ;)
--  Sou fascinada no desenvolvimento de games =)
+##  - Atualmente curso o 2º período de Eng. de Software ;)
+##  - Sou fascinada no desenvolvimento de games =)
 
 <img src="read/faixa.png">
 
