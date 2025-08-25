@@ -4,6 +4,7 @@
 
 - Atualmente curso o 6º período de Eng. de Software ;)
 - Sou fascinada no desenvolvimento de games =)
+- Interesse nas áreas de DevFront e UX/UI :)
 
 
 
