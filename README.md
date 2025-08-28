@@ -1,4 +1,4 @@
-<img src="read/saudacoes.png">
+<img src="read/banner.jpg">
 
 **Olá! Me chamo Larah** 💙
 
