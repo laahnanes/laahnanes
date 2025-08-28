@@ -1,6 +1,6 @@
 <img src="read/saudacoes.png">
 
-**Oie! Me chamo Larah** 💙
+**Olá! Me chamo Larah** 💙
 
 - Atualmente curso o 6º período de Eng. de Software ;)
 - Sou fascinada no desenvolvimento de games =)
